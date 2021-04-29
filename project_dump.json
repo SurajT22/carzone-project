@@ -1,0 +1,1181 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "NJ",
+        "city": "Austin",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>XYZ</p>",
+        "car_photo": "photos/21/04/10/1902536891_u40kIUt.jpg",
+        "car_photo_1": "photos/21/04/10/1902536917_o06Jf9f.jpg",
+        "car_photo_2": "photos/21/04/10/1902537043_9NgHOoD.jpg",
+        "car_photo_3": "photos/21/04/10/1902537077_5nPFolt.jpg",
+        "car_photo_4": "photos/21/04/10/1902537082_wBprnYL.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4l Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 1000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0AB2E81Ek12393700",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-04-10T13:10:31Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "IN",
+        "city": "Nagpur",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 25000,
+        "description": "<p>XYZ</p>",
+        "car_photo": "photos/21/04/10/1901478607.jpg",
+        "car_photo_1": "photos/21/04/10/1901478618.jpg",
+        "car_photo_2": "photos/21/04/10/1901478646.jpg",
+        "car_photo_3": "photos/21/04/10/1901478672.jpg",
+        "car_photo_4": "photos/21/04/10/1901478687.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,Power Steering,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4l Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 1500,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0AB2E81Ek12384851",
+        "milage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owner": "2",
+        "is_featured": true,
+        "created_date": "2021-04-08T12:00:00Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "GA",
+        "city": "Atlanta",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>XYZ</p>",
+        "car_photo": "photos/21/04/10/1894300905.jpg",
+        "car_photo_1": "photos/21/04/10/1894300894.jpg",
+        "car_photo_2": "photos/21/04/10/1894300920.jpg",
+        "car_photo_3": "photos/21/04/10/1900155012.jpg",
+        "car_photo_4": "photos/21/04/10/1900155133.jpg",
+        "features": "Audio Interface,Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4l Mid-Engine V9",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 13000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0AB2E81Ek123937843",
+        "milage": 10,
+        "fuel_type": "Diesel",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-04-10T13:20:43Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "FL",
+        "city": "Fanomiya",
+        "color": "Black",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>XYZ</p>",
+        "car_photo": "photos/21/04/10/1902932542.jpg",
+        "car_photo_1": "photos/21/04/10/1902932503.jpg",
+        "car_photo_2": "photos/21/04/10/1902932514.jpg",
+        "car_photo_3": "photos/21/04/10/1902932528.jpg",
+        "car_photo_4": "photos/21/04/10/1902932542_LreLfst.jpg",
+        "features": "Audio Interface,Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4l Mid-Engine V4",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 12500,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0AB2E81EkSuRaJ",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-04-10T13:25:55Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "LAMBORGHINI HURACAN",
+        "state": "GA",
+        "city": "123 Kathal St. Tampa City",
+        "color": "Red",
+        "model": "HURACÁN",
+        "year": 2019,
+        "condition": "Used",
+        "price": 178000,
+        "description": "<p>XYZ</p>\n\n",
+        "car_photo": "photos/21/04/10/car-4.jpg",
+        "car_photo_1": "photos/21/04/10/car-10.jpg",
+        "car_photo_2": "photos/21/04/10/car-5.jpg",
+        "car_photo_3": "photos/21/04/10/car-7.jpg",
+        "car_photo_4": "photos/21/04/10/car-11.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Convertible",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "6-speed Manual",
+        "interior": "Agate Grey",
+        "miles": 12,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WP0AB2E81EK190171",
+        "milage": 28,
+        "fuel_type": "Gasoline",
+        "no_of_owner": "N/A",
+        "is_featured": true,
+        "created_date": "2021-04-10T20:13:51Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "Hyundai Verna",
+        "state": "MI",
+        "city": "inidian",
+        "color": "Black",
+        "model": "Verna",
+        "year": 2020,
+        "condition": "Used",
+        "price": 90000,
+        "description": "<p>XYZ</p>",
+        "car_photo": "photos/21/04/10/verna.jpeg",
+        "car_photo_1": "photos/21/04/10/car-12.jpg",
+        "car_photo_2": "photos/21/04/10/img-1.jpg",
+        "car_photo_3": "",
+        "car_photo_4": "",
+        "features": "Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "Sedan",
+        "engine": "1.5 l U2 CRDi",
+        "transmission": "Mannual",
+        "interior": "Black",
+        "miles": 12500,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "WP0AB2E81EkSuRaJ",
+        "milage": 8,
+        "fuel_type": "Diesel",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-04-10T20:25:31Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martha",
+        "last_name": "Smith",
+        "designation": "Web Developer",
+        "photo": "photos/21/04/09/avatar-10.jpg",
+        "facebook_link": "https://www.facebook.com/surajtembhare",
+        "twitter_link": "https://www.twitter.com/surajtembhare",
+        "google_plus_link": "https://www.gmail.com/surajtembhare",
+        "created_date": "2021-04-09T09:17:03.132Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/21/04/09/avatar-11.jpg",
+        "facebook_link": "https://www.facebook.com/surajtembhare",
+        "twitter_link": "https://www.twitter.com/surajtembhare",
+        "google_plus_link": "https://www.gmail.com/surajtembhare",
+        "created_date": "2021-04-09T09:17:51.524Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Manager",
+        "photo": "photos/21/04/09/avatar-12.jpg",
+        "facebook_link": "https://www.facebook.com/surajtembhare",
+        "twitter_link": "https://www.twitter.com/surajtembhare",
+        "google_plus_link": "https://www.gmail.com/surajtembhare",
+        "created_date": "2021-04-09T09:18:55.930Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/21/04/09/avatar-9.jpg",
+        "facebook_link": "https://www.facebook.com/surajtembhare",
+        "twitter_link": "https://www.twitter.com/surajtembhare",
+        "google_plus_link": "https://www.gmail.com/surajtembhare",
+        "created_date": "2021-04-09T09:19:40.092Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Software Developer",
+        "photo": "photos/21/04/09/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com/surajtembhare",
+        "twitter_link": "https://www.twitter.com/surajtembhare",
+        "google_plus_link": "https://www.gmail.com/surajtembhare",
+        "created_date": "2021-04-09T09:23:32.607Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "s",
+        "last_name": "t",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Nagpur",
+        "state": "Maharastra",
+        "email": "s@gmail.com",
+        "phone": "9370084851",
+        "message": "dahaaeqgr",
+        "user_id": 5,
+        "create_date": "2021-04-14T18:59:40.813Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "s",
+        "last_name": "t",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Nagpur",
+        "state": "Maharastra",
+        "email": "s@gmail.com",
+        "phone": "9370084851",
+        "message": "dsdds",
+        "user_id": 5,
+        "create_date": "2021-04-14T18:59:58.867Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "s",
+        "last_name": "t",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Nagpur",
+        "state": "Maharastra",
+        "email": "s@gmail.com",
+        "phone": "9370084851",
+        "message": "ddarg",
+        "user_id": 5,
+        "create_date": "2021-04-14T19:05:17.383Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "suraj",
+        "last_name": "tembhare",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Nagpur",
+        "state": "Maharastra",
+        "email": "surajtembhare3@gmail.com",
+        "phone": "9370084851",
+        "message": "ewgrea",
+        "user_id": 5,
+        "create_date": "2021-04-14T19:05:32.005Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "suraj",
+        "last_name": "Tembhare",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "d",
+        "state": "d",
+        "email": "surajtembhare3@gmail.com",
+        "phone": "",
+        "message": "dgbaf",
+        "user_id": 1,
+        "create_date": "2021-04-14T19:30:27.130Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "s",
+        "last_name": "t",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "LAMBORGHINI HURACAN",
+        "city": "Nagpur",
+        "state": "Maharastra",
+        "email": "s@gmail.com",
+        "phone": "8669049523",
+        "message": "Test",
+        "user_id": 5,
+        "create_date": "2021-04-15T18:23:11.165Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 7,
+    "fields": {
+        "first_name": "s",
+        "last_name": "t",
+        "car_id": 6,
+        "customer_need": "I'm interested in this",
+        "car_title": "Hyundai Verna",
+        "city": "Nagpur",
+        "state": "Maharastra",
+        "email": "s@gmail.com",
+        "phone": "9370084851",
+        "message": "Test2",
+        "user_id": 5,
+        "create_date": "2021-04-15T18:30:22.567Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$H4mfS6DEakU9LbTp17ZYke$Fwo/JeBJFDb2mo3yPQFutJP0LIEmojIsNodcPZp6cl0=",
+        "last_login": "2021-04-21T05:47:55.224Z",
+        "is_superuser": true,
+        "username": "suraj",
+        "first_name": "suraj",
+        "last_name": "Tembhare",
+        "email": "surajtembhare3@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-04-09T07:26:46Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$6W9W4q9t2h4zFczSYd6Elk$RKMVR1RTyXkeMg1BhhhbEEYWZlFjEc21oviif5nzYfk=",
+        "last_login": "2021-04-15T12:59:08.300Z",
+        "is_superuser": false,
+        "username": "surajT",
+        "first_name": "s",
+        "last_name": "t",
+        "email": "s@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-04-14T12:10:42Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cxo69jp9muj8v24sclo7jgyxcxx6qhdk",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hBmQgu4dO8ZyMAMUjU0Ke3KeHdt0oVu_3vvv1Skba1x67LEidVZgTr9bonyQ9oO-E7tNus8t3WZkt4VfdCurzPL83K4fweVev3WxjjMbMPgLaIQpbGgCSNl50waQIAZMCBgyUAFvBUSKwziDQgnVO8P1iU4EA:1lZ5iN:g75e3FxEOG-0Ph6L9rkqAlpQkgIpmVL4MzM2eb645O8",
+        "expire_date": "2021-05-05T05:47:55.224Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "lezjtskr9dpo904vm4bhcoml99m9k76y",
+    "fields": {
+        "session_data": ".eJxVjLsOAiEQAP-F2pAFhOUs7f2Gy8Ky3qmB5B6V8d8NyRXazkzmrUbat2nc17KMM6uLMur0yxLlZ6ld8IPqvenc6rbMSfdEH3bVt8bldT3av8FE69S36MENWETOhNHmPMQYHHsRAYJcPAIjZ2ACR4Y8BBySoPUxGmslqM8X4f43qw:1lUvBx:MO2qYnvGFURz-PbH5qoDn2d-34lXGKKdetCutBPbbOQ",
+        "expire_date": "2021-04-23T17:45:13.319Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ww9vavz0rk5ndpbp9lmsats0uizscjdz",
+    "fields": {
+        "session_data": ".eJxVjLsOAiEQAP-F2pAFhOUs7f2Gy8Ky3qmB5B6V8d8NyRXazkzmrUbat2nc17KMM6uLMur0yxLlZ6ld8IPqvenc6rbMSfdEH3bVt8bldT3av8FE69S36MENWETOhNHmPMQYHHsRAYJcPAIjZ2ACR4Y8BBySoPUxGmslqM8X4f43qw:1lUlZR:LmTjYWYyXgmzK1AcCSlmqa2UegaEOOla0LAKO-ItZXc",
+        "expire_date": "2021-04-23T07:28:49.761Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xxg2iolubg6drfq4jebj0nxjrzbegllu",
+    "fields": {
+        "session_data": ".eJxljMsOwiAURP-FdUPKI5R26d5vIFy4WBQhocWN8d9tTWNiXE0y58w8iXWutLyaB9YYInqDdxsTmXJLqfvStmAlE5GkI8a2df4UJvr_Dqy7Yd6Bv9p8KdSVvNYIdFfoQRd6Lh7T6XB_Dma7zNua6SFopQL0I_RBC3DAB6GQBS2lEI6DZozzoCyXARVo6MUolNxSwigceb0BaDlI2Q:1lWNWa:yaepntQ5cS9OtPgApe9eaIatXCklEIBHB2k4noQNtGY",
+        "expire_date": "2021-04-27T18:12:32.718Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zobtwfeuvymv45mlcrot2k37ow2ciqko",
+    "fields": {
+        "session_data": ".eJxVjLsOAiEQAP-F2pAFhOUs7f2Gy8Ky3qmB5B6V8d8NyRXazkzmrUbat2nc17KMM6uLMur0yxLlZ6ld8IPqvenc6rbMSfdEH3bVt8bldT3av8FE69S36MENWETOhNHmPMQYHHsRAYJcPAIjZ2ACR4Y8BBySoPUxGmslqM8X4f43qw:1lV7NW:Cf1DkRdWEFbLOSK4zJorc0BMW97mAZ9i2RwdXIgrPJU",
+        "expire_date": "2021-04-24T06:45:58.436Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "515121706516082",
+        "secret": "d8b4da95d351e44068e147d46354162e",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "809605792870-psncptv5doqm5ad2i4849mnsa7up7bgs.apps.googleusercontent.com",
+        "secret": "a3reYIinzSobGUFkv9FS1tKn",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-04-09T08:57:44.701Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Suraj",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-04-09T09:11:39.883Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Suraj",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-04-09T09:13:01.769Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Suraj",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-04-09T09:17:03.136Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martha",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-04-09T09:17:51.528Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-04-09T09:18:55.934Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-04-09T09:19:40.097Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-04-09T09:23:32.611Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-04-09T09:23:55.627Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Martin",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-04-10T07:43:23.463Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-04-10T07:43:35.112Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-04-10T07:50:19.902Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-04-10T07:55:38.384Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-04-10T08:00:22.123Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-04-10T08:00:32.744Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-04-10T08:23:35.562Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-04-10T08:23:35.571Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-04-10T09:00:24.032Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-04-10T09:00:24.042Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-04-10T11:31:57.218Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-04-10T11:32:05.553Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-04-10T11:32:16.716Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-04-10T11:32:25.844Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-04-10T14:52:36.186Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "LAMBORGHINI HURACAN",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-04-10T15:09:24.003Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Hyundai Verna",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-04-12T10:00:01.009Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Hyundai Verna",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Transmission\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-04-12T12:57:21.562Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Hyundai Verna",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-04-13T15:29:34.336Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-04-13T15:32:47.410Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-04-13T18:05:06.135Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-04-14T12:08:56.631Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "suraj1",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2021-04-14T12:09:05.580Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "suraj1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2021-04-14T12:09:14.175Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "suraj4",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2021-04-14T12:09:21.951Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "surajT",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2021-04-14T12:11:48.634Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "surajT",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2021-04-14T14:00:05.316Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "suraj",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2021-04-21T06:20:32.703Z",
+        "user": [
+            "suraj"
+        ],
+        "content_type": [
+            "teacher",
+            "teachermodel"
+        ],
+        "object_id": "1",
+        "object_repr": "Test of the teacher table",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
