@@ -24,9 +24,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-15w$ukv0+-l%qk!d^r6&uxd#w826_^4zwgxun2m#n96zp5(0ar'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+# DEBUG = False
 
-ALLOWED_HOSTS = ['blooming-beach-39936.herokuapp.com','kuruma4ruedas.co','www.kuruma4ruedas.co']
+# ALLOWED_HOSTS = ['blooming-beach-39936.herokuapp.com','kuruma4ruedas.co','www.kuruma4ruedas.co']
+DEBUG = True
+
+ALLOWED_HOSTS = []
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
@@ -91,16 +94,17 @@ WSGI_APPLICATION = 'carzone.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'carzone_db',
-#         'USER': 'postgres',
-#         'PASSWORD': '123',
-#         'HOST': 'localhost',
-#     }
-# }
-DATABASES = {'default': dj_database_url.config(default='postgres://postgres:123@localhost/carzone_db')}
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'carzone_db',
+        'USER': 'postgres',
+        'PASSWORD': '123',
+        'HOST': 'localhost',
+    }
+}
+# DATABASES = {'default': dj_database_url.config(default='postgres://postgres:123@localhost/carzone_db')}
+
 # db_from_carenv = dj_database_url.config(conn_max_age=600)
 # DATABASE['defult'].update(db_from_carenv)
 # Password validation
@@ -173,3 +177,8 @@ EMAIL_USE_TLS = True
 
 #Whitenoise settings
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+
+
+SOCIALACCOUNT_LOGIN_ON_GET = True
+
