@@ -101,6 +101,7 @@ DATABASES = {
         'USER': 'postgres',
         'PASSWORD': '123',
         'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 # DATABASES = {'default': dj_database_url.config(default='postgres://postgres:123@localhost/carzone_db')}
