@@ -1169,8 +1169,8 @@
             "suraj"
         ],
         "content_type": [
-            "teacher",
-            "teachermodel"
+            "auth",
+            "user"
         ],
         "object_id": "1",
         "object_repr": "Test of the teacher table",
